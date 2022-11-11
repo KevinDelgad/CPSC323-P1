@@ -1,0 +1,11 @@
+Token_______________Lexeme
+Keyword             while
+Separator           (
+Id                  s
+operatior           <
+Id                  upper
+Separator           )
+Id                  t
+operatior           =
+Real                33.00
+Separator           ;
